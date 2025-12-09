@@ -23,7 +23,7 @@ amandānanda-sandōha-bandhuraṁ sindhurānanam ||
 
 * * *
 
-🧩 **Padaccheda & Word-by-Word Meaning (Continuous format)**
+🧩 **Padaccheda & Word-by-Word Meaning**
 
 | Word | Meaning |
 | --- | --- |
@@ -73,7 +73,6 @@ Elephants symbolize wisdom, royalty, and auspicious beginnings.
 अङ्गीकृताखिलविभूतिरपाङ्गलीला  
 माङ्गल्यदाऽस्तु मम मङ्गलदेवतायाः ॥ १॥
 
-_(Traditional numbering counts this as Verse 1, but here we follow your sequence as Verse 2.)_
 
 * * *
 
@@ -85,7 +84,7 @@ māṅgalyadā ’stu mama maṅgala-dēvatāyāḥ ||
 
 * * *
 
-🧩 **Padaccheda & Word-by-Word Meaning (Continuous Format)**
+🧩 **Padaccheda & Word-by-Word Meaning**
 
 | Word | Meaning |
 | --- | --- |
