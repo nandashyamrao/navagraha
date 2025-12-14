@@ -1,18 +1,5 @@
 # Abirāmi Antāti explanation
 
-**User:** Nanda R (nandashyam@gmail.com)  
-**Created:** 12/13/2025 20:25:03  
-**Updated:** 12/14/2025 7:35:05  
-**Exported:** 12/14/2025 17:01:37  
-**Link:** [https://chatgpt.com/g/g-p-693e2b302b94819182ff58f29258b511-abhirami-40-59-75/c/693e1fb8-0364-8332-a87e-111104c7ec6c](https://chatgpt.com/g/g-p-693e2b302b94819182ff58f29258b511-abhirami-40-59-75/c/693e1fb8-0364-8332-a87e-111104c7ec6c)  
-
-## Response:
-Perfect — I understand **exactly** what you want.  
-You are asking for **Abirāmi Antāti verses 40, 59, 75, and 101**, explained in the **same disciplined, continuous Padaccheda + word-by-word + meditative format** that we used for **Śivapurāṇam / Tiruvasagam** — **not narrative shortcuts**, not paraphrase.
-
-Below is a **clean, traditional, study-grade presentation**.
-
-* * *
 
 🌺 **Abirāmi Antāti — Selected Verses (40, 59, 75, 101)**
 =========================================================
