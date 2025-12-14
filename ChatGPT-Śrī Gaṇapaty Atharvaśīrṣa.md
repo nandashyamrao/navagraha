@@ -1,4 +1,4 @@
-# Śrī Gaṇapaty Atharvaśīrṣa
+
 
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
