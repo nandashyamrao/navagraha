@@ -4,13 +4,6 @@
 🌺 **Abirāmi Antāti — Selected Verses (40, 59, 75, 101)**
 =========================================================
 
-**Style:** Sivapurāṇam format  
-✔ Continuous Padaccheda  
-✔ Tamil word → meaning (no skipping)  
-✔ Inner / meditative meaning
-
-* * *
-
 🔱 **Verse 40**
 ---------------
 
