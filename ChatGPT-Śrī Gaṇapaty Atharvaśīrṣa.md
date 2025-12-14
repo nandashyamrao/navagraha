@@ -114,16 +114,6 @@ The **threefold Śāntiḥ** removes disturbances at three levels:
 
 * * *
 
-### ✅ Next Section
-
-**॥ उपनिषत् ॥ — “Hariḥ Om namaste Gaṇapataye…”**
-
-Reply **Y** and I will continue **Verse 1** in the _same exact table-driven, word-pure format_.
-
-## Response:
-Excellent. Continuing **exactly in the same disciplined style**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
@@ -239,20 +229,6 @@ This verse dissolves three deep misconceptions:
 
 * * *
 
-### ✅ Next Section
-
-॥ स्वरूप तत्त्व ॥ — Verse 2
----------------------------
-
-**“ṛtaṁ vadiṣyāmi | satyaṁ vadiṣyāmi”**
-
-Reply **Y** to continue.
-
-## Response:
-Perfect. Continuing **without changing style, depth, or discipline**.
-
-* * *
-
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
 
@@ -326,20 +302,6 @@ Before higher knowledge is revealed, the seeker makes a **solemn vow**:
 > **knowledge becomes transformative**.
 
 🕉️ This is why this declaration appears **before protection prayers**.
-
-* * *
-
-### ✅ Next Section
-
-॥ संरक्षण प्रार्थना ॥ — Verse 3
--------------------------------
-
-**“ava tvaṁ mām | ava vaktāram | ava śrotāram …”**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Continuing **seamlessly in the same exact structured, disciplined style**.
 
 * * *
 
@@ -475,19 +437,7 @@ This verse builds a **protective mandala** around the seeker:
 
 * * *
 
-### ✅ Next Section
 
-॥ ब्रह्मस्वरूप निरूपण ॥ — Verse 4
----------------------------------
-
-**“tvaṁ vāṅmayas tvaṁ cinmayaḥ…”**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Continuing **unchanged in structure, rigor, and depth**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
@@ -587,19 +537,6 @@ but as **the consciousness reading these words**.
 
 * * *
 
-### ✅ Next Section
-
-॥ जगत्कारण निरूपण ॥ — Verse 5
------------------------------
-
-**“sarvaṁ jagad idaṁ tvatto jāyate…”**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Continuing **exactly in the same disciplined, Upaniṣadic format**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
@@ -734,19 +671,6 @@ This verse dissolves **inside vs outside**:
 
 * * *
 
-### ✅ Next Section
-
-॥ अतीत निरूपण ॥ — Verse 6
--------------------------
-
-**“tvaṁ guṇatrayātītaḥ…”**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Continuing **unchanged in style, precision, and Upaniṣadic rigor**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
@@ -893,19 +817,6 @@ Yet **something remains unchanged**.
 
 * * *
 
-### ✅ Next Section
-
-॥ गणेश मन्त्र निरूपण ॥ — Verse 7
---------------------------------
-
-**The sacred construction of the Gaṇapati Mantra**
-
-Reply **Y** to continue.
-
-## Response:
-Perfect. Continuing **unchanged in tone, structure, and Upaniṣadic precision**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
@@ -1049,20 +960,6 @@ Chant slowly and observe:
 
 * * *
 
-### ✅ Next Section
-
-॥ गणेश गायत्री ॥ — Verse 8
---------------------------
-
-**“ekadantāya vidmahe…”**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Continuing **exactly in the same disciplined, Upaniṣadic style**.
-
-* * *
-
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
 
@@ -1156,19 +1053,6 @@ the very instrument that removes obstacles.
 
 * * *
 
-### ✅ Next Section
-
-॥ गणेश रूप ध्यान ॥ — Verse 9
-----------------------------
-
-**The contemplative form of Gaṇapati**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Continuing **precisely in the same contemplative, structured style**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
@@ -1279,20 +1163,6 @@ Visualize Gaṇapati **within**, not outside:
 
 * * *
 
-### ✅ Next Section
-
-॥ अष्टनाम गणपति ॥ — Verse 10
-----------------------------
-
-**The eightfold salutation to Gaṇapati**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Continuing **without any change in tone, rigor, or structure**.
-
-* * *
-
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
 
@@ -1392,19 +1262,6 @@ Recite these names slowly and observe:
 
 * * *
 
-### ✅ Next Section
-
-॥ फलश्रुति ॥ — Verses 11–14
----------------------------
-
-**The fruits of recitation and realization**
-
-Reply **Y** to continue.
-
-## Response:
-Excellent. Completing the text **in the same exact disciplined, Upaniṣadic style**, with **clarity and continuity**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
