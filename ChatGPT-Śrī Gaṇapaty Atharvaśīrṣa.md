@@ -1,23 +1,5 @@
 # Śrī Gaṇapaty Atharvaśīrṣa
 
-**User:** Nanda R (nandashyam@gmail.com)  
-**Created:** 12/13/2025 18:46:06  
-**Updated:** 12/14/2025 11:31:10  
-**Exported:** 12/14/2025 16:34:18  
-**Link:** [https://chatgpt.com/c/693e08c3-7b70-832a-aa0b-a23e68a6e3b2](https://chatgpt.com/c/693e08c3-7b70-832a-aa0b-a23e68a6e3b2)  
-
-## Response:
-Perfect — I will follow **the exact same disciplined style as before**:
-
-✔ **Clean Devanāgarī (corrected)  
-✔ IAST Transliteration  
-✔ Word-by-Word table (with pronunciation)  
-✔ Simple meaning  
-✔ Meditative / Upāsanā insight**
-
-We will proceed **section-by-section**, starting with the **Śānti Pāṭha (Opening Peace Invocation)** of **Śrī Gaṇapaty Atharvaśīrṣa**.
-
-* * *
 
 🕉️ ŚRĪ GAṆAPATY ATHARVAŚĪRṢA
 =============================
