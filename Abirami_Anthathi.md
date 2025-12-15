@@ -1,13 +1,9 @@
-# 🔴 Abirāmi Antāti — Red Panel Only  
-## 🕉️ Image‑Faithful Padaccheda Study (101 → 40 → 59 → 75)
-
-✨ **Only Red‑panel Tamil | Exact Padaccheda | Transliteration | Meditation** ✨
+# 🔴 Abirāmi Antāti 
+## 🕉️ Faithful Padaccheda Study (101 → 40 → 59 → 75)
 
 ---
 
-## 🔴 Verse 101 — (Red Text)
-
-### 🟥 Red Tamil (as shown)
+## 🔴 Verse 101 
 
 ஆத்தாளை எங்கள் அபிராமவல்லியை  
 அண்டம் எல்லாம்  
@@ -107,9 +103,7 @@ Keep the question open; let the fear slowly lose its absolute solidity.
 
 ---
 
-## 🔴 Verse 40 — (Red Text)
-
-### 🟥 Red Tamil (as shown)
+## 🔴 Verse 40 
 
 வானுதற் கண்ணியை,  
 விண்ணவர் யாவரும் வந்திறைஞ்சிப்  
@@ -199,9 +193,7 @@ This shifts the center from *me achieving bhakti* to **Her quietly awakening bha
 
 ---
 
-## 🔴 Verse 59 — (Red Text)
-
-### 🟥 Red Tamil (as shown)
+## 🔴 Verse 59
 
 தஞ்சம் பிறிதில்லை ஏதல்லது  
 என்று உன் தவநெறிக்கே  
@@ -299,9 +291,8 @@ Notice how it subtly **re‑orders your dependence**.
 
 ---
 
-## 🔴 Verse 75 — (Red Text)
+## 🔴 Verse 75 
 
-### 🟥 Red Tamil (as shown)
 
 தங்குவர் கற்பகத்  
 தாருவின் நீழலில்; தாயின் நிழல்  
