@@ -207,7 +207,7 @@ Invite it to stand tall again. This is the awakening you ask for.
 
 * * *
 
-🌺 **Verse 5 — (01:20)**
+🌺 **Verse 5**
 ========================
 
 **ஆதியும் அந்தமும் இல்லா அரும் பெரும் சோதியை யாம் பாடக் கேட்டேயும் வாள்தடங[...]**
@@ -624,4 +624,4 @@ was always the One who was seeking.
 
 
 ---
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
+
