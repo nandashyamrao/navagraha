@@ -6,7 +6,7 @@
 
 **(00:00)**
 
-**போற்றி என் வாழ் முதலாகிய பொருளே புலர்ந்தது பூங்கழற்கிணை துணை மலர் கொண்டு**
+**போற்றி என் வாழ் முதலாகிய பொருளே புலர்ந்தது பூங்கழற்கிணை துணை மலர் கொண்டு[...]**
 ----------------------------------------------------------------------------
 
 ### **Transliteration**
@@ -35,12 +35,31 @@ Bringing flowers = bringing a pure mind.
 
 _Morning remembrance is the soul offering itself._
 
+### **Poetic / Meditative Reflection**
+
+Before any thought arises, there is a still, tender light inside you.  
+That is the "source of your life" that this verse praises.
+
+The world wakes up as the sun touches the waters,  
+and within you, awareness touches the petals of the heart.  
+The mind walks toward that presence carrying its small offerings—  
+memories, fears, longings—like flowers gathered from a quiet pond.
+
+Do not worry if the flowers are imperfect.  
+Even a bruised lotus is beautiful in the hands of the Beloved.  
+Simply to remember, at the first light of day,  
+"My life has a sacred source"—this is already worship.
+
+Close your eyes for a moment.  
+Feel the subtle freshness of early morning within your chest.  
+Let every breath be a petal you place at the invisible feet of Shiva within.
+
 * * *
 
 🌺 **Verse 2 — (00:12)**
 ========================
 
-**போற்றி நின் திருமுகத்தெமக்கருள் மலரும் எழில்நகை கொண்டு நின் திருவடி தொழுகோம்**
+**போற்றி நின் திருமுகத்தெமக்கருள் மலரும் எழில்நகை கொண்டு நின் திருவடி தொழ�[...]**
 --------------------------------------------------------------------------------
 
 ### **Transliteration**
@@ -69,12 +88,31 @@ The “divine smile” is the dawning joy of inner clarity.
 Worship = surrendering ego at the feet of awareness.  
 Grace blooms only when the heart is open.
 
+### **Poetic / Meditative Reflection**
+
+There is a smile that does not belong to any person.  
+It appears in your being when something lets go—  
+a tightness, a fear, an old insistence on being right.
+
+This verse calls that smile "the Lord’s face."  
+Not somewhere in the sky, but as a soft radiance  
+rising from the quiet center of your chest.
+
+When you sense that inner smile, bow inwardly.  
+To bow is simply to say:  
+"I am willing to live from this light, not from my smallness."
+
+Let your worries, your roles, your stories  
+rest for a moment at those unseen feet of grace.  
+Feel what remains when you stop defending yourself:  
+a gentle warmth, a subtle joy—this is His smile upon you.
+
 * * *
 
 🌺 **Verse 3 — (00:25)**
 ========================
 
-**சேற்றிதழ்க் கமலங்கள் மலரும் வயல்சூழ் திருப்பெருந்துறையுரை சிவபெருமானே**
+**சேற்றிதழ்க் கமலங்கள் மலரும் வயல்சூழ் திருப்பெருந்துறையுரை சிவபெருமானே*[...]**
 -------------------------------------------------------------------------
 
 ### **Transliteration**
@@ -99,6 +137,24 @@ Lotus in mud = pure awareness within worldly life.
 Shiva resides wherever purity blooms amidst human struggle.
 
 _Spiritual life is not elsewhere—It is here, in one’s own muddy mind._
+
+### **Poetic / Meditative Reflection**
+
+Your mind may feel like a pond after the rain—  
+disturbed, clouded, full of old leaves and silt.  
+Yet the lotus of awareness does not wait for clear water to bloom.
+
+Right in the middle of confusion, a single clear seeing appears:  
+"Even this restless mind is held in a greater Stillness."
+
+This is where Shiva lives: not far away,  
+but as the silent depth beneath your thoughts.  
+Each time you remember this, a lotus opens within the mud.
+
+Do not curse your restlessness.  
+Let it remind you of the serene depth below.  
+Just as the lotus rises unstained from the dark water,  
+your true nature stands untouched by the movements of the mind.
 
 * * *
 
@@ -130,12 +186,32 @@ please awaken from Your divine repose!_
 Let the Shiva-consciousness awaken within my sleepy mind.  
 Bull-banner = dharma; rising = clarity.
 
+### **Poetic / Meditative Reflection**
+
+Sometimes the heart feels as though God is asleep.  
+Prayers seem to fall back as echoes,  
+and the inner sky feels overcast.
+
+This verse is the soul’s gentle shaking of the Divine:  
+"Wake up in me. Rise as clarity in my confusion,  
+as courage in my fear, as purpose in my drifting."
+
+But the secret is this: it is not God who sleeps—  
+it is our attention that has dozed off into habits and worries.  
+So when we call, "Rise, my Lord,"  
+we are really summoning our own forgotten awareness.
+
+Feel that within you: a noble, silent strength,  
+like a great white bull standing firm in a storm.  
+That is your dharma-nature, your capacity to walk the right path.  
+Invite it to stand tall again. This is the awakening you ask for.
+
 * * *
 
 🌺 **Verse 5 — (01:20)**
 ========================
 
-**ஆதியும் அந்தமும் இல்லா அரும் பெரும் சோதியை யாம் பாடக் கேட்டேயும் வாள்தடங்கண்…**
+**ஆதியும் அந்தமும் இல்லா அரும் பெரும் சோதியை யாம் பாடக் கேட்டேயும் வாள்தடங[...]**
 ---------------------------------------------------------------------------------
 
 ### **Transliteration**
@@ -159,6 +235,25 @@ Hearing our song, Your wide, radiant eyes shine upon us._
 Shiva = Conscious Light beyond birth and death.  
 Hymns = vibrations that purify mind  
 Vision of Shiva = awakening of inner radiance.
+
+### **Poetic / Meditative Reflection**
+
+Imagine a light that was never born and will never fade.  
+Not the light of the sun or a lamp,  
+but the bare fact that you are aware right now.
+
+This awareness has watched every season of your life,  
+yet remains itself untouched—  
+this is the "rare, great Effulgence" the verse praises.
+
+When you chant, sing, or simply breathe His name inwardly,  
+you tune your mind to that timeless radiance.  
+It is as if the Infinite turns Its gaze directly upon you,  
+though in truth it has never looked away.
+
+Let your words become transparent,  
+so that through every syllable this Light may shine.  
+In that shining, the boundaries of "you" and "He" gently loosen.
 
 * * *
 
@@ -189,17 +284,36 @@ Your divine ears alone hear this call._
 Shiva listens not to words but to sincerity.  
 Devotion grows like a child in a mother’s care.
 
+### **Poetic / Meditative Reflection**
+
+Every seeker at some point wonders:  
+"Is my devotion real, or am I only imagining?"
+
+This verse turns that uncertainty into a prayer:  
+"If my love is still small and unsteady,  
+let it grow under Your motherly gaze."
+
+Do not measure your devotion by emotions or experiences.  
+Measure it by the softness of your heart,  
+by how gently you treat others,  
+by how ready you are to return to remembrance after forgetting.
+
+The Divine Ear is not looking for perfect chants—  
+it leans toward the tremble of a sincere heart.  
+Even your doubt, when offered honestly,  
+becomes a flower placed at Her feet.
+
 * * *
 
 🌺 **Verse 7 — (02:01)**
 ========================
 
-**வார்கழல்கள் வாழ்த்திய வாழ்த்தொலி போய் வீதிவாய் கேட்டலுமே விம்மி விம்மினை மறந்து…**
+**வார்கழல்கள் வாழ்த்திய வாழ்த்தொலி போய் வீதிவாய் கேட்டலுமே விம்மி விம்மி��[...]**
 ------------------------------------------------------------------------------------
 
 ### **Transliteration**
 
-_Vārkazhalgaḷ vāzththiya vāzththolipōy vīthivāy kēṭṭalumē vimmi vimminai marandhu…_
+_Vārkazhalgaḷ vāzththiya vāzththolipōy vīthivāy kēṭ்டலுமē vimmi vimminai marandhu…_
 
 ### **Word-by-word**
 
@@ -219,12 +333,32 @@ hearts overflow and forget themselves in devotion._
 True bhakti dissolves ego.  
 Hearing divine praise = internal mantra vibrations expanding.
 
+### **Poetic / Meditative Reflection**
+
+There is a moment in deep devotion  
+when you forget to protect the idea of "me."  
+A chant rises, tears come, or a quiet peace settles—  
+and for a while, you are simply *present*.
+
+This verse sings of that overflowing:  
+when the sound of praise moves through the "streets" of the mind,  
+echoing in every thought and feeling.
+
+Let the mantra walk through your inner city.  
+Let it turn every corner—memories, desires, fears—  
+until even your sense of "I" bows its head,  
+not in defeat, but in relief.
+
+Self-forgetting in God is not loss;  
+it is like a drop forgetting itself in the ocean,  
+only to discover that it has always been water.
+
 * * *
 
 🌺 **Verse 8 — (02:24)**
 ========================
 
-**ஓதரமா எழில்மேல் நின்றும் புரண்டு இங்ஙனே ஏதேனும் ஆகாள் கிடந்தாள்… ஈதே எம் தோழி பரிசேலோர் எம்பாவாய்**
+**ஓதரமா எழில்மேல் நின்றும் புரண்டு இங்ஙனே ஏதேனும் ஆகாள் கிடந்தாள்… ஈதே எம்[...]**
 -----------------------------------------------------------------------------------------------------
 
 ### **Transliteration**
@@ -251,12 +385,33 @@ The bell = OM vibration.
 Everything that occurs in presence becomes divine prasad.  
 Awareness transforms ordinary experience into sacredness.
 
+### **Poetic / Meditative Reflection**
+
+Life sometimes rings like a sudden bell—  
+a joy, a loss, a change that echoes  
+through every room of your heart.
+
+The verse whispers to a friend:  
+"Whatever has happened here, see it as His mysterious gift."  
+Not to deny pain, but to hold it  
+within a larger, shining context.
+
+When you listen deeply,  
+every event carries the faint sound of OM,  
+a reminder that all forms arise and fall  
+within an unshaken Presence.
+
+Try resting as the one who listens,  
+not clinging to the tone of any particular moment—  
+joy or sorrow—but simply receiving it.  
+In that silent receiving, even grief becomes a doorway to grace.
+
 * * *
 
 🌺 **Verse 9 — (03:12)**
 ========================
 
-**அருணன் இந்திரன் திசை அணுகினன் இருள் போய் அகன்றது உதயம் நின் மலர்த் திருமுகத்தின்**
+**அருணன் இந்திரன் திசை அணுகினன் இருள் போய் அகன்றது உதயம் நின் மலர்த் திரும��[...]**
 ------------------------------------------------------------------------------------
 
 ### **Transliteration**
@@ -282,6 +437,29 @@ but the sunrise from Your lotus-face is even greater._
 The sun removes outer darkness.  
 Shiva-awareness removes inner ignorance.  
 His face = inner light.
+
+### **Poetic / Meditative Reflection**
+
+The world has its sunrise:  
+night slowly loosens its grip, colors return,  
+and shapes emerge from the dark.
+
+But there is another dawn inside you:  
+when understanding breaks through confusion,  
+when a long-held resentment melts into forgiveness,  
+when a sudden silence descends in the middle of noise.
+
+That inner dawn is the "lotus-face" of the Lord  
+turning gently toward your heart.
+
+Each time you choose clarity over confusion,  
+truth over self-deception,  
+compassion over bitterness,  
+you are witnessing this greater sunrise.
+
+Let the outer sun remind you of this inner one.  
+As light fills the sky,  
+invite the light of awareness to fill the mind.
 
 * * *
 
@@ -312,6 +490,30 @@ Your fragrant flower-like eyes bloom with grace._
 When compassion rises, perception changes.  
 The Lord’s eyes = the awakened consciousness looking through us.
 
+### **Poetic / Meditative Reflection**
+
+Compassion is not only a feeling toward others;  
+it is a new way of seeing.
+
+When the "sun of compassion" rises in you,  
+people’s flaws look less like insults  
+and more like their unhealed wounds.  
+Your own mistakes become teachers,  
+not lifelong sentences.
+
+These are the "flower-like eyes" of the Divine—  
+eyes that do not stab with judgment,  
+but soften everything they rest upon.
+
+Sit quietly and imagine that your own seeing  
+is being washed in a gentle, golden light.  
+Let harshness dissolve,  
+first toward yourself, then toward others.
+
+In that softened gaze,  
+you are borrowing, for a moment,  
+the eyes of Shiva.
+
 * * *
 
 🌺 **Verse 11 — (03:50)**
@@ -339,6 +541,26 @@ _O Shiva of Perundurai! You whose boundless qualities overflow and who dances in
 
 Shiva’s qualities are infinite because He is infinite awareness.  
 The dance = cosmic rhythm of life.
+
+### **Poetic / Meditative Reflection**
+
+Existence is a dance you are both watching and performing.  
+Breath enters, breath leaves;  
+thoughts appear, dissolve;  
+relationships begin, transform, end.
+
+Behind all this movement  
+is a silent, spacious witness—Shiva-consciousness—  
+within which the entire dance takes place.
+
+To feel this is to stand at Perundurai in your own being:  
+a sacred ford where the finite meets the Infinite,  
+where the waves of life touch the shore of timelessness.
+
+Each quality you admire—courage, patience, love, wisdom—  
+is a spark from that infinite treasury of His nature.  
+When you cultivate them,  
+you are learning the steps of His dance.
 
 * * *
 
@@ -371,6 +593,31 @@ Grace is His treasure.
 Bliss is His nature.  
 Compassion flows endlessly like an ocean.  
 Awakening = inner Shiva rising in the heart.
+
+### **Poetic / Meditative Reflection**
+
+To call the Divine a mountain and an ocean  
+is to confess that the heart feels very small.
+
+Yet the mystery is that this "mountain of bliss"  
+rises from your own depth,  
+and this "ocean of compassion"  
+flows already in your chest as kindness, as longing, as silence.
+
+When you pray, "Rise and bless us,"  
+you are inviting your deepest nature  
+to become your daily experience.
+
+Let this be your quiet assurance:  
+no matter how troubled the surface of the mind,  
+there is a vast, unmoving peace beneath it,  
+ancient and intimate.
+
+Rest your attention there,  
+again and again, gently.  
+In that resting, you will discover  
+that the treasure you sought  
+was always the One who was seeking.
 
 * * *
 
