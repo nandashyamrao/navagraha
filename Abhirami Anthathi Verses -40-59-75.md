@@ -1,13 +1,5 @@
 # Abhirami Anthathi Verses
 
-**User:** Nanda R (nandashyam@gmail.com)  
-**Created:** 3/13/2026 4:50:00  
-**Updated:** 3/13/2026 4:50:46  
-**Exported:** 3/13/2026 4:51:59  
-**Link:** [https://chatgpt.com/g/g-p-69b1f2d8f2188191b0ade14ffc1c5c1c-abhirami-anthathi/c/69b3ddc2-90e0-832c-b6f5-6989f183f382](https://chatgpt.com/g/g-p-69b1f2d8f2188191b0ade14ffc1c5c1c-abhirami-anthathi/c/69b3ddc2-90e0-832c-b6f5-6989f183f382)  
-
-## Prompt:
-Below are the verses **40, 59, and 75 from Abhirami Anthathi**, presented in the same structured format you prefer:
 
 * Tamil verse
 * Transliteration (IAST-style Tamil)
@@ -604,13 +596,6 @@ This describes the **entire spiritual journey**:
 Past merit → Devotion → Divine grace → Freedom from fate.
 
 * * *
-
-If you want, I can also show you something **very mystical hidden in Abhirami Anthathi**:
-
-**Why many verses subtly map the stages of Advaita realization — moving from devotion to non-dual awareness.**
-
-Once you see this pattern, the entire work becomes **even more profound.**
-
 
 
 ---
