@@ -1,0 +1,65 @@
+name: Build and Push Docker Image
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+  workflow_dispatch:
+    inputs:
+      dtctl_version:
+        description: "dtctl version tag to build (e.g. v0.34.0)"
+        required: true
+        default: "v0.34.0"
+
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Determine the dtctl version to build:
+      #   - On a tag push  → strip the leading "v" from the git tag name
+      #     (e.g. refs/tags/v0.34.0 → DTCTL_VERSION=v0.34.0, IMAGE_TAG=0.34.0)
+      #   - On workflow_dispatch → use the manually supplied input
+      - name: Resolve version
+        id: version
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            DTCTL_VERSION="${{ github.event.inputs.dtctl_version }}"
+          else
+            DTCTL_VERSION="${GITHUB_REF_NAME}"
+          fi
+          # Strip leading "v" for the Docker image tag (Docker Hub convention)
+          IMAGE_TAG="${DTCTL_VERSION#v}"
+          echo "dtctl_version=${DTCTL_VERSION}" >> "$GITHUB_OUTPUT"
+          echo "image_tag=${IMAGE_TAG}"         >> "$GITHUB_OUTPUT"
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          platforms: linux/amd64,linux/arm64
+          build-args: |
+            DTCTL_VERSION=${{ steps.version.outputs.dtctl_version }}
+          tags: |
+            dtctl/dtctl:${{ steps.version.outputs.image_tag }}
+            dtctl/dtctl:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
