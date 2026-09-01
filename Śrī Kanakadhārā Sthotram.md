@@ -7,6 +7,9 @@
 📖 **About This Hymn**  
 The _Kanakadhārā Stotram_ was composed by **Śrī Ādi Śaṅkarācārya** out of pure compassion, to bless a poor Brahmin woman who had nothing to give except one dry amla fruit. Moved by her sincerity, Śaṅkara recited these 22 verses invoking **Mahā Lakṣmī**, the Goddess of prosperity. Legend says that immediately _golden amlas_ showered upon her home.
 
+🧘‍♀️ **Deeper Meditation Meaning (Condensed Practice)**  
+Sit with a steady, gentle breath; on the inhale recall “Śrī,” on the exhale “Lakṣmī,” letting the mind rest in the heart. Visualize a soft golden rain descending through the crown into the heart, dissolving scarcity into quiet sufficiency. Offer one authentic feeling of lack (like the poor woman’s single āmla) and witness it being transformed into compassionate fullness to be shared outward.
+
 
 🕉 **Verse 1 — वन्दे वन्दारुमन्दारम्**
 ======================================
